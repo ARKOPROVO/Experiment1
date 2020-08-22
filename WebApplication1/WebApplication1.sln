@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "..\WebApplication2\WebApplication2.csproj", "{CFD6D6FC-0DCE-4E1E-A39E-ADBDC81DA53C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1.UnitTests", "..\WebApplication1.UnitTests\WebApplication1.UnitTests.csproj", "{C2E16949-4B9E-4B5E-97BF-6A0588605A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2.UnitTests", "..\WebApplication2.UnitTests\WebApplication2.UnitTests.csproj", "{AF8065BA-6A4B-4F35-B76C-204B6009FE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CFD6D6FC-0DCE-4E1E-A39E-ADBDC81DA53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD6D6FC-0DCE-4E1E-A39E-ADBDC81DA53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD6D6FC-0DCE-4E1E-A39E-ADBDC81DA53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E16949-4B9E-4B5E-97BF-6A0588605A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E16949-4B9E-4B5E-97BF-6A0588605A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E16949-4B9E-4B5E-97BF-6A0588605A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E16949-4B9E-4B5E-97BF-6A0588605A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8065BA-6A4B-4F35-B76C-204B6009FE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8065BA-6A4B-4F35-B76C-204B6009FE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8065BA-6A4B-4F35-B76C-204B6009FE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8065BA-6A4B-4F35-B76C-204B6009FE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
